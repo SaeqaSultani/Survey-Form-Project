@@ -15,19 +15,12 @@ textarea,
 select {
   display: block;
   width: 100%;
- padding-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 form {
-  background-color: #cc0000;
+  background-color: #c00;
   padding: 40px 40px 40px 40px;
-}
-
-input[type=checkbox]:not(old)+label,
-input[type=radio]:not(old)+label {
-  display: inline-block;
-  margin-left: -28px;
-  padding-left: 28px;
 }
 
 .button-area {
