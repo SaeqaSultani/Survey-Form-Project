@@ -30,7 +30,7 @@ input[type=radio]:not(old)+label {
     padding-left: 28px;
 }
 
-#button-area {
+.button-area {
     float: left;
     width: 50%;
     height: 50%;
