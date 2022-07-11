@@ -1,37 +1,37 @@
 body {
-    font-family: sans-serif;
-    padding-left: 20%;
-    padding-right: 20%;
+  font-family: sans-serif;
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 label {
-    font-size: 18px;
-    display: block;
-    padding-bottom: 10px;
+  font-size: 18px;
+  display: block;
+  padding-bottom: 10px;
 }
 
 input,
 textarea,
 select {
-    display: block;
-    width: 100%;
-    padding-bottom: 20px;
+  display: block;
+  width: 100%;
+ padding-bottom: 20px;
 }
 
 form {
-    background-color: #cc0000;
-    padding: 40px 40px 40px 40px;
+  background-color: #cc0000;
+  padding: 40px 40px 40px 40px;
 }
 
 input[type=checkbox]:not(old)+label,
 input[type=radio]:not(old)+label {
-    display: inline-block;
-    margin-left: -28px;
-    padding-left: 28px;
+  display: inline-block;
+  margin-left: -28px;
+  padding-left: 28px;
 }
 
 .button-area {
-    float: left;
-    width: 50%;
-    height: 50%;
+  float: left;
+  width: 50%;
+  height: 50%;
 }
