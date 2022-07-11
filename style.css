@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+label {
+  font-size: 18px;
+  display: block;
+  padding-bottom: 10px;
+}
+
+input,
+textarea,
+select {
+  display: block;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+form {
+  background-color: #c00;
+  padding: 40px 40px 40px 40px;
+}
+
+.button-area {
+  float: left;
+  width: 50%;
+  height: 50%;
+}
